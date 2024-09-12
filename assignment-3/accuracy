@@ -42,6 +42,29 @@ accuracy = tensor(0.9841)
 accuracy = tensor(0.9825)
 
 task c
+<<<<<<< HEAD
 accuracy = tensor(0.9790)
 accuracy = tensor(0.9849)
 accuracy = tensor(0.9862)
+=======
+accuracy = 0.9781999588012695
+accuracy = 0.9863999485969543
+accuracy = 0.9891999959945679
+accuracy = 0.9855999946594238
+accuracy = 0.9879999756813049
+accuracy = 0.986799955368042
+accuracy = 0.9874999523162842
+accuracy = 0.9889999628067017
+accuracy = 0.9881999492645264
+accuracy = 0.9875999689102173
+accuracy = 0.9914000034332275
+accuracy = 0.9873999953269958
+accuracy = 0.9904999732971191
+accuracy = 0.9883999824523926
+accuracy = 0.9882999658584595
+accuracy = 0.991599977016449
+accuracy = 0.9919999837875366
+accuracy = 0.9921000003814697
+accuracy = 0.9925999641418457
+accuracy = 0.9899999499320984
+>>>>>>> a57babf (Added GPU support to task_c and updated accuracy)
