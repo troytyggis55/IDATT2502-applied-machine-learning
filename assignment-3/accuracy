@@ -67,4 +67,47 @@ accuracy = 0.9919999837875366
 accuracy = 0.9921000003814697
 accuracy = 0.9925999641418457
 accuracy = 0.9899999499320984
->>>>>>> a57babf (Added GPU support to task_c and updated accuracy)
+
+task d - task c model
+accuracy = 0.8604999780654907
+accuracy = 0.8831999897956848
+accuracy = 0.8933999538421631
+accuracy = 0.8998000025749207
+accuracy = 0.901199996471405
+accuracy = 0.9053999781608582
+accuracy = 0.9088000059127808
+accuracy = 0.9108999967575073
+accuracy = 0.9120000004768372
+accuracy = 0.9144999980926514
+accuracy = 0.913599967956543
+accuracy = 0.9142999649047852
+accuracy = 0.9147999882698059
+accuracy = 0.9089999794960022
+accuracy = 0.913599967956543
+accuracy = 0.9181999564170837
+accuracy = 0.9178999662399292
+accuracy = 0.914199948310852
+accuracy = 0.9220999479293823
+accuracy = 0.9210999608039856
+
+task d - task d model
+Epoch 1/20, Accuracy: 0.8816
+Epoch 2/20, Accuracy: 0.9028
+Epoch 3/20, Accuracy: 0.9151
+Epoch 4/20, Accuracy: 0.9182
+Epoch 5/20, Accuracy: 0.9245
+Epoch 6/20, Accuracy: 0.9246
+Epoch 7/20, Accuracy: 0.9311
+Epoch 8/20, Accuracy: 0.9304
+Epoch 9/20, Accuracy: 0.9304
+Epoch 10/20, Accuracy: 0.9359
+Epoch 11/20, Accuracy: 0.9315
+Epoch 12/20, Accuracy: 0.9308
+Epoch 13/20, Accuracy: 0.9361
+Epoch 14/20, Accuracy: 0.9335
+Epoch 15/20, Accuracy: 0.9352
+Epoch 16/20, Accuracy: 0.9317
+Epoch 17/20, Accuracy: 0.9354
+Epoch 18/20, Accuracy: 0.9354
+Epoch 19/20, Accuracy: 0.9349
+Epoch 20/20, Accuracy: 0.9342
