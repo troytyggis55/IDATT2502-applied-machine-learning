@@ -1,0 +1,28 @@
+ 07-10-2024 12:05:52:125 [pid=1328 tid=1328] NOTICE  cufio-drv:727 running in compatible mode
+ 07-10-2024 12:05:52:126 [pid=1328 tid=1328] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 07-10-2024 12:05:52:209 [pid=1328 tid=1328] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 07-10-2024 12:05:52:211 [pid=1328 tid=1377] ERROR  0:58 NUMA not available
+ 07-10-2024 12:05:52:211 [pid=1328 tid=1379] ERROR  0:58 NUMA not available
+ 07-10-2024 12:05:52:211 [pid=1328 tid=1380] ERROR  0:58 NUMA not available
+ 07-10-2024 12:05:52:211 [pid=1328 tid=1378] ERROR  0:58 NUMA not available
+ 07-10-2024 12:55:04:700 [pid=9944 tid=9944] NOTICE  cufio-drv:727 running in compatible mode
+ 07-10-2024 12:55:04:700 [pid=9944 tid=9944] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 07-10-2024 12:55:04:862 [pid=9944 tid=9944] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 07-10-2024 12:55:04:863 [pid=9944 tid=12054] ERROR  0:58 NUMA not available
+ 07-10-2024 12:55:04:863 [pid=9944 tid=12055] ERROR  0:58 NUMA not available
+ 07-10-2024 12:55:04:863 [pid=9944 tid=12057] ERROR  0:58 NUMA not available
+ 07-10-2024 12:55:04:863 [pid=9944 tid=12056] ERROR  0:58 NUMA not available
+ 07-10-2024 13:16:57:918 [pid=28957 tid=28957] NOTICE  cufio-drv:727 running in compatible mode
+ 07-10-2024 13:16:57:918 [pid=28957 tid=28957] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 07-10-2024 13:16:58:3 [pid=28957 tid=28957] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 07-10-2024 13:16:58:4 [pid=28957 tid=29005] ERROR  0:58 NUMA not available
+ 07-10-2024 13:16:58:4 [pid=28957 tid=29006] ERROR  0:58 NUMA not available
+ 07-10-2024 13:16:58:4 [pid=28957 tid=29008] ERROR  0:58 NUMA not available
+ 07-10-2024 13:16:58:4 [pid=28957 tid=29007] ERROR  0:58 NUMA not available
+ 10-10-2024 15:15:03:562 [pid=2178 tid=2178] NOTICE  cufio-drv:727 running in compatible mode
+ 10-10-2024 15:15:03:562 [pid=2178 tid=2178] ERROR  cufio-plat:98 cannot open path /sys/bus/pci/devices/0000:01:00.0/resource No such file or directory
+ 10-10-2024 15:15:03:653 [pid=2178 tid=2178] ERROR  cufio-topo-udev:431 no device entries present in platform topology
+ 10-10-2024 15:15:03:655 [pid=2178 tid=2222] ERROR  0:58 NUMA not available
+ 10-10-2024 15:15:03:655 [pid=2178 tid=2223] ERROR  0:58 NUMA not available
+ 10-10-2024 15:15:03:656 [pid=2178 tid=2224] ERROR  0:58 NUMA not available
+ 10-10-2024 15:15:03:656 [pid=2178 tid=2225] ERROR  0:58 NUMA not available

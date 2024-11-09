@@ -20,7 +20,8 @@ terminal_velocity = 6
 player_speed = 4
 gravity = 0.1
 
-time_step = 0.3
+time_step = 1
+
 
 class Player:
     def __init__(self, x, y, side):
@@ -104,7 +105,7 @@ class Volleyball:
             self.ball_x_vel = -4
             self.last_touch = "right"
 
-        self.ball_y_vel = 1
+        self.ball_y_vel = -0.6
         
 
         self.left_player.x = 200
@@ -183,7 +184,6 @@ class Volleyball:
         
         distance_from_net = (self.ball_x - 400) ** 2 + (self.ball_y - 200)**2
         collision_dist_sq = ball_radius ** 2
-                                
         ball_hits_net = (self.ball_y >= 200 and self.ball_x >= 400 - ball_radius 
                          and self.ball_x <= 400 + ball_radius or distance_from_net <= 
                          collision_dist_sq)
@@ -194,12 +194,12 @@ class Volleyball:
             if self.last_touch == "left":
                 # Right player wins
                 print("Right player wins")
-                self.close()
+                self.reset()
                 pass
             else:
                 # Left player wins
                 print("Left player wins")
-                self.close()
+                self.reset()
                 pass
                 
     
@@ -208,12 +208,12 @@ class Volleyball:
             if self.ball_x < 400:
                 # Right player wins
                 print("Right player wins")
-                self.close()
+                self.reset()
                 pass
             else:
                 # Left player wins
                 print("Left player wins")
-                self.close()
+                self.reset()
                 pass
 
 
