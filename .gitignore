@@ -1,3 +1,5 @@
 visualize/
 .idea/
 data/
+.venv/
+**/.venv/

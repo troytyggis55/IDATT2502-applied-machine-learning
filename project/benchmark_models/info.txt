@@ -1,0 +1,4 @@
+Avg winrate was last 1000 episodes
+winreate limit for updating opponent was 0.6
+
+seed = 0
